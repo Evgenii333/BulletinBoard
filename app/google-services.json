@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057528718721",
+    "project_id": "bulletinboard-a567a",
+    "storage_bucket": "bulletinboard-a567a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057528718721:android:bd983019986f11d24cf480",
+        "android_client_info": {
+          "package_name": "e.simakov.bulletinboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057528718721-4qphdd9mhtt3hi9c4d7pvd387bdbo5ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IUohtPNmESNiiTV4hdNA5Qk5Zmh4imQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057528718721-4qphdd9mhtt3hi9c4d7pvd387bdbo5ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
